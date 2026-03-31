@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hi there :raising_hand:
 
 
-Me chamo Everton estudante de ciências da computação com foco em aprender programação, já desenvolvi projetos com html, css e javascript. agora estou focado no react e node 
+Meu nome é  Everton sou estudante de ciências da computação :mortar_board: e meu principal objetivo é me tornar um programador fullstack. Gosto de: 
+
+-tecnologia :computer: <br/>
+-video game :video_game: <br/>
+-futebol :soccer: torcedor do flamengo! ❤️ ❤️🖤🖤 <br/>
 
 
